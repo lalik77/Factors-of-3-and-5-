@@ -4,7 +4,7 @@ Find the number of ideal integers within the given segment [low,high] inclusive.
  
 ![Picture](https://github.com/lalik77/Factors-of-3-and-5-/blob/master/3x5.png)
 
-Function Description
+#Function Description
 
 The function returns the number of ideal integers in the inclusive range .
 
